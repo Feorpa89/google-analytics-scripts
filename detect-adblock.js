@@ -1,0 +1,1 @@
+// can be built based in https://github.com/sitexw/BlockAdBlock
