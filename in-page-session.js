@@ -1,3 +1,7 @@
+// Dependencies
+// - jQuery
+// - Google Tag Manager
+
 // Settings
 var time_counter_period         = 5;  // Heartbeat frequency, in seconds
 var inpage_session_timeout      = 10; // Number of seconds of inactivity that would expire the page session
